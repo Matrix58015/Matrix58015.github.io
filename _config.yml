@@ -13,12 +13,12 @@ base: ""  # the relative path that different with domain so you can test locally
 
 # Source URL NOTE: end with / cause it's [URL + FILE]
 w3c_url: "/w3c/"  # the base url of css js and images
-images_url: "/w3c/images/" # the base url of post images
+images_url: "/w3c/images1/" # the base url of post images
 postfile: "/db/Postfile" # the Database
 sitefile: "/db/Sitefile" # the Database
 
 # pagination
-page_size: 3
+page_size: 10
 
 # comment settings
 duoshuo_short_name: "sbys" # the user of user.domain.com
