@@ -36,7 +36,7 @@ paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: Matrix5810151111 # https://www.behance.net/<username>
+  behance: Matrix581015 # https://www.behance.net/<username>
   dribbble:
   email:
   facebook:
@@ -70,7 +70,7 @@ url: http://Matrix580151111.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: /testing
+baseurl: 
 
 #
 # !! You don't need to change any of the configuration flags below !!
