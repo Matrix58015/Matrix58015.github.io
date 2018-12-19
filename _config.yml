@@ -32,16 +32,16 @@ navigation:
     url: https://github.com/Matrix58015
 
 # Pagination
-paginate: 5
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: Matrix581015 # https://www.behance.net/<username>
+  behance: Matrix5810151111 # https://www.behance.net/<username>
   dribbble:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: Matrix58015/testing
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -64,13 +64,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://Matrix58015.github.io/
+url: http://Matrix580151111.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:
+baseurl: /testing
 
 #
 # !! You don't need to change any of the configuration flags below !!
