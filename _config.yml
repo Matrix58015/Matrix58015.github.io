@@ -32,7 +32,7 @@ navigation:
     url: https://github.com/Matrix58015
 
 # Pagination
-paginate: 2
+paginate: 5
 
 # Includes an icon in the footer for each username you enter
 footer-links:
